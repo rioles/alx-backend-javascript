@@ -1,7 +1,7 @@
 # Ignore node_modules folder
 node_modules
 
-.eslintrc.js
+#.eslintrc.js
 
 .prettierrc
 
